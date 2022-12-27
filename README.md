@@ -5,6 +5,8 @@ Include the date you created this project and README file.
 
 ### Note
 This content will be used for the note of this project
+If you wanna use this project for your work
+Please learn more in udacity
 
 ### Project Title
 Replace the Project Title
