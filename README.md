@@ -4,10 +4,10 @@
 12/27/2022.
 
 ### Project Title
-Replace the Project Title
+HoangNH36 - Udacity Course
 
 ### Description
-Describe what your project is about and what it does
+Project to study the way to control Git version
 
 ### Files used
 bikeshare_2.py
