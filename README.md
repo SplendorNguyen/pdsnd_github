@@ -3,8 +3,12 @@
 ### Date created
 Include the date you created this project and README file.
 
+### Note
+This content will be used for the note of this project
+
 ### Project Title
 Replace the Project Title
+
 
 ### Description
 Describe what your project is about and what it does
