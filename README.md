@@ -3,8 +3,14 @@
 ### Date created
 12/27/2022
 
+### Note
+This content will be used for the note of this project
+If you wanna use this project for your work
+Please learn more in udacity
+
 ### Project Title
 HoangNH36 - Udacity Course
+
 
 ### Description
 Project to study the way to control Git version
